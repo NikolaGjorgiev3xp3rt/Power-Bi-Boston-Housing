@@ -72,7 +72,6 @@ This project demonstrates how **data analysis and visualization** can transform 
 ## 👤 Author
 
 **Nikola Gjorgiev**  
-Faculty of Computer Science  
 Aspiring Data Analyst / Data Scientist
 
 
