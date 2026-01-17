@@ -1,11 +1,11 @@
 
-# Boston Housing Data Analysis 📊
+# Boston Housing Data Analysis 
 
 This project focuses on analyzing the **Boston Housing dataset** to understand the key factors that influence house prices. The analysis combines **data science techniques** and **Power BI visualizations** to provide both statistical insights and interactive dashboards.
 
 ---
 
-## 🚀 Project Objectives
+## Project Objectives
 
 - Explore relationships between housing features and median house prices
 - Identify the most influential variables affecting housing value
@@ -14,7 +14,7 @@ This project focuses on analyzing the **Boston Housing dataset** to understand t
 
 ---
 
-## 🗂 Dataset
+## Dataset
 
 The Boston Housing dataset includes information such as:
 - Crime rate
@@ -26,7 +26,7 @@ The Boston Housing dataset includes information such as:
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - **Power BI** – Data modeling and interactive dashboards  
 - **Python / Data Science concepts** – Data understanding & preprocessing  
@@ -34,7 +34,7 @@ The Boston Housing dataset includes information such as:
 
 ---
 
-## 📈 Analysis Highlights
+## Analysis Highlights
 
 - Correlation analysis between housing attributes and prices
 - Identification of positive and negative price drivers
@@ -43,7 +43,7 @@ The Boston Housing dataset includes information such as:
 
 ---
 
-## 📊 Power BI Dashboard
+## Power BI Dashboard
 
 The Power BI report includes:
 - Summary KPIs
@@ -55,7 +55,7 @@ The Power BI report includes:
 
 ---
 
-## 🎯 Key Insights
+## Key Insights
 
 - Number of rooms has a strong positive correlation with house prices
 - Higher crime rates negatively impact property values
@@ -63,13 +63,13 @@ The Power BI report includes:
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 This project demonstrates how **data analysis and visualization** can transform raw housing data into meaningful insights. It is suitable for showcasing skills in **data science, Power BI, and analytical thinking**.
 
 ---
 
-## 👤 Author
+## Author
 
 **Nikola Gjorgiev**  
 Aspiring Data Analyst / Data Scientist
